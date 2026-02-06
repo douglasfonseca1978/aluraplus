@@ -1,2 +1,2 @@
 # aluraplus
-projeto de desencolvimento no curso de front em da alura
+projeto de desenvolvimento no curso de front em da alura
